@@ -1,4 +1,5 @@
-# StreamSense is a SQL-based analytics project, where it analyze the user behaviour across these two platforma netflix and spotify & This project demonstrates how real-world companies track content consumption, identify trends, and compare user preferences between music and video streaming platforms.
+# StreamSense is a SQL-based analytics project
+where it analyze the user behaviour across these two platforma netflix and spotify & This project demonstrates how real-world companies track content consumption, identify trends, and compare user preferences between music and video streaming platforms.
 # Data Base Model  & used : Mysql workbench
                 users
                   |
